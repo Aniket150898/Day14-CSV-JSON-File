@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NDMMxmduHW6BUpueMeQV0MNjzad+Q9LYSEUFGPUMd87i3vcK1ZFnSHQnFfQkaPxYcsCc5kubPve9CMEqyafaZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aniket\\Desktop\\Allcodes\\Third Party\\Third-Party-Libary\\CSVhelperAndJSON\\CSVhelperAndJSON.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aniket\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
+    "C:\\Users\\Aniket\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
